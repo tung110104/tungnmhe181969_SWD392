@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Ebank Login" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ebank.presentation.Main" />
+    <module name="Ebank" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
