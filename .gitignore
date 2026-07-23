@@ -32,3 +32,8 @@ _preview/
 
 # Stray nested IDE folder
 src/.idea/
+
+# Visual Paradigm lock and backup files
+*.lck
+*.vpp.bak_*
+*.vbak
